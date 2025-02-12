@@ -1,1 +1,2 @@
-console.log("Bora pra cima")
+let nome = "Uillian Araujo"
+console.log(nome)
