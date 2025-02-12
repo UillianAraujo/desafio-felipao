@@ -1,1 +1,1 @@
-abcd
+console.log("Bora pra cima")
